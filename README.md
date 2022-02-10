@@ -18,4 +18,6 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhengheng36&show_icons=true&show_icons=true&count_private=true&theme=radical)
 
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhengheng36&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
